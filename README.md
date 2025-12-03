@@ -35,4 +35,4 @@ Perfect for learning C++, practicing Git/GitHub, and creating your first polishe
 
 ### Compile:
 ```bash
-g++ passgen.cpp -o passgen
+g++ main.cpp -o passgen
